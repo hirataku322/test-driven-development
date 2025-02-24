@@ -15,3 +15,5 @@ $ ./gradlew test
 - [ ] $5 + $5がMoneyを返す
 - [x] Moneyを変換して換算を行う
 - [x] Bank.reduce(Money)
+- [ ] Sum.plus
+- [ ] Expression.times
